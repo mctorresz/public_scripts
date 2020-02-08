@@ -1,5 +1,6 @@
 #!/bin/sh
 ### Make sure Notepad++ is set to Edit->EOL Conversion->Unix
+### For running within Windows Subsystem for Linux
 ### Introduction
 echo 'What would you like to do?'
 echo '1 - Trim Video (LQ)'
