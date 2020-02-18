@@ -29,26 +29,26 @@ curl -s https://automattic.com/work-with-us/#open-positions > jobdata/Automattic
 curl -s https://www.chef.io/careers/open-positions/ > jobdata/Chef.io
 #curl -s https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12781-12827-Remote > jobdata/RedHat-TX-Remote
 curl -s https://stripe.com/jobs/search?l=remote > jobdata/Stripe
-# https://1password.com/jobs/
-# https://www.adhocteam.us/join/#open-positions
-# https://ae.studio/join-us
-# https://closeriq.com/careers#jobs
-# https://jobs.lever.co/anomali?commitment=Full-time%20Remote
-# https://careers.astronomer.io/
-# https://auth0.com/careers/positions?locations=Remote%20-%20North%20America
-# https://www.betterup.com/en-us/about-us/careers
-# https://www.bigcartel.com/jobs
-# https://jobs.lever.co/blameless
-# https://bluespark.bamboohr.com/jobs/
-# https://journey.buffer.com/#vacancies
-# https://canonical.com/careers/all
-# https://www.chargify.com/careers/
-# https://www.charitywater.org/about/jobs
-# https://www.clevertech.biz/careers#Jobs
-# https://jobs.lever.co/close.io/
-# https://corgibytes.com/careers/
-# https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers
-# https://customer.io/careers/
+curl -s https://1password.com/jobs/ > jobdata/1password
+curl -s "https://www.adhocteam.us/join/#open-positions" > jobdata/AdHocTeam
+curl -s https://ae.studio/join-us > jobdata/AE_Studio
+curl -s "https://closeriq.com/careers#jobs" > jobdata/CloserIQ
+curl -s https://jobs.lever.co/anomali?commitment=Full-time%20Remote > jobdata/Anomali
+curl -s https://careers.astronomer.io/ > jobdata/Astronomer
+curl -s https://auth0.com/careers/positions?locations=Remote%20-%20North%20America > jobdata/Auth0
+curl -s https://www.betterup.com/en-us/about-us/careers > jobdata/Betterup
+curl -s https://www.bigcartel.com/jobs > jobdata/BigCartel
+curl -s https://jobs.lever.co/blameless > jobdata/Blameless
+curl -s https://bluespark.bamboohr.com/jobs/ > jobdata/BlueSpark
+curl -s "https://journey.buffer.com/#vacancies" > jobdata/Journey_Buffer
+curl -s https://canonical.com/careers/all > jobdata/Canonical
+curl -s https://www.chargify.com/careers/ > jobdata/Chargify
+curl -s https://www.charitywater.org/about/jobs > jobdata/CharityWater
+curl -s "https://www.clevertech.biz/careers#Jobs" > jobdata/CleverTech
+curl -s https://jobs.lever.co/close.io/ > jobdata/Close_io
+curl -s https://corgibytes.com/careers/ > jobdata/CorgiBytes
+curl -s https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers > jobdata/CrowdStrike
+curl -s https://customer.io/careers/ > jobdata/Customer_io
 # 
 # 
 # 
