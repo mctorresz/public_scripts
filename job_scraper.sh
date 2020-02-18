@@ -29,6 +29,31 @@ curl -s https://automattic.com/work-with-us/#open-positions > jobdata/Automattic
 curl -s https://www.chef.io/careers/open-positions/ > jobdata/Chef.io
 #curl -s https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=12781-12827-Remote > jobdata/RedHat-TX-Remote
 curl -s https://stripe.com/jobs/search?l=remote > jobdata/Stripe
+# https://1password.com/jobs/
+# https://www.adhocteam.us/join/#open-positions
+# https://ae.studio/join-us
+# https://closeriq.com/careers#jobs
+# https://jobs.lever.co/anomali?commitment=Full-time%20Remote
+# https://careers.astronomer.io/
+# https://auth0.com/careers/positions?locations=Remote%20-%20North%20America
+# https://www.betterup.com/en-us/about-us/careers
+# https://www.bigcartel.com/jobs
+# https://jobs.lever.co/blameless
+# https://bluespark.bamboohr.com/jobs/
+# https://journey.buffer.com/#vacancies
+# https://canonical.com/careers/all
+# https://www.chargify.com/careers/
+# https://www.charitywater.org/about/jobs
+# https://www.clevertech.biz/careers#Jobs
+# https://jobs.lever.co/close.io/
+# https://corgibytes.com/careers/
+# https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers
+# https://customer.io/careers/
+# 
+# 
+# 
+# 
+# 
 
 # Look within folder
 cd jobdata
