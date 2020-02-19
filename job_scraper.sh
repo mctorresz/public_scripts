@@ -1,5 +1,5 @@
 #! /bin/bash
-# Requiremens: N/A
+# Requirements: N/A
 
 # Folder Setup
 rm -r jobdata/
